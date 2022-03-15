@@ -1,5 +1,6 @@
-1. navbar done
-2. footer
+1. navbar DONE
+2. footer 
+
 3. projects section
 (i) Project 1
 (ii) Project 2
