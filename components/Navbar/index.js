@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { useState } from "react";
+import  { useState } from "react";
 
 import React from 'react'
 
-export default function index() {
+export default function Navbar() {
 const [active, setActive] = useState(false);
 
   const handleClick = () => {
