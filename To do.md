@@ -1,8 +1,10 @@
 1. navbar DONE
-2. footer 
+2. footer DONE
 
 3. projects section
-(i) Project 1
+***JUst installed Next UI components to see if they will display correctly**
+**Next need to import project sections**
+(i) Project 1 
 (ii) Project 2
 (iii) Projecr 3
 
