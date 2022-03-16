@@ -5,7 +5,7 @@ import css from './DeveloperSection.module.css'
 export default function DeveloperSection() {
   return (
     //   Grid for developer section
-    <div class="grid gap-4 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8">
 
       {/* Developer section div 1 */}
       <div class="col-span-3 place-items-center content-center bg-[#fdc435] border-r-2 border-black" >
@@ -31,8 +31,7 @@ export default function DeveloperSection() {
     <div class="col-span-3 place-items-center content-center">
     
     <h1 class="text-center font-roboto text-4xl font-bold">Skills</h1>
-    
-    
+    <br/>
     <ul class="text-left font-roboto text-xl font-bold">
 <li>Front end: JavaScript, HTML, CSS </li>
 <li>Frameworks and libraries: React, React Native, Next.js </li>
