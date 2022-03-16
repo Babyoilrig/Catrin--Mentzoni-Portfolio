@@ -1,0 +1,42 @@
+.projectsTitle {
+    width: 181px;
+    height: 72px;
+    left: 410px;
+    top: 0px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+  
+    text-align: center;
+    color: #25282b;
+    
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 4px 0px;
+  }
+  
+  .projectUnderline {
+    width: 130px;
+    height: 5px;
+    left: 430px;
+    top: 70px;
+  
+    /* brand / yellow */
+  
+    background: #fdc435;
+    border-radius: 2px;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 4px 0px;
+  }
+  
+  
