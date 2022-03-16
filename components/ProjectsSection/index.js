@@ -4,9 +4,9 @@ import css from './ProjectSection.module.css'
 
 export default function ProjectsSection1() {
   return (
-    <div class="flex flex-wrap grid gap-4 grid-cols-2 grid-rows-1 place-items-center h-screen w-screen border-solid border-2 border-black rounded mb-12 mt-8">
+    <div class="flex flex-wrap grid gap-4 grid-cols-6 grid-rows-1 place-items-center content-center h-screen w-screen border-solid border-2 border-black rounded mb-12 mt-8">
       {/* Text box for project 1 */}
-      <div class="w-1/2" className={css.proj1Left}>
+      <div class="col-span-3 content-center mx-40 " className={css.proj1Left}>
       <div className={css.projectTextBox}>
         <h2 className={css.projectTitle}>This Website</h2>
         <h3 className={css.projectDescription}>"This portfolio site was made with Next.js and tailwindcss. My aim was 
@@ -22,7 +22,7 @@ export default function ProjectsSection1() {
       </div>
       </div>
       {/* Image box for project1 */}
-      <div class="w-1/2" >
+      <div class="col-span-3 place-items-center" >
       <div className={css.projectImageBox}>
         <img
           className={css.bootcamperAppImage}
