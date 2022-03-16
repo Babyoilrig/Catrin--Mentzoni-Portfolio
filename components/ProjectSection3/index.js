@@ -4,10 +4,10 @@ import css from './ProjectSection3.module.css'
 
 export default function ProjectsSection3() {
   return (
-    //   Grid for project section 1
+    //   Grid for project section 3
     <div class="grid gap-4 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8">
     
-      {/* Text box for project 1 */}
+      {/* Text box for project 3 */}
       <div class="col-span-3 content-center mx-40" className={css.proj1Left}>
       <div className={css.projectTextBox}>
         <h2 className={css.projectTitle}>Tribe App</h2>
@@ -20,7 +20,7 @@ export default function ProjectsSection3() {
         </Link>
       </div>
       </div>
-      {/* Image box for project1 */}
+      {/* Image box for project3 */}
       <div class="col-span-3 place-items-center" >
       <div className={css.projectImageBox}>
         <img
