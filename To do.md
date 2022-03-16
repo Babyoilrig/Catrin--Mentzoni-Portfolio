@@ -2,24 +2,24 @@
 2. footer DONE
 
 3. projects section
-***JUst installed Next UI components to see if they will display correctly**
-**Next need to import project sections**
-(i) Project 1 
-(ii) Project 2
-(iii) Projecr 3
+(i) Project 1 DONE
+(ii) Project 2 DONE
+(iii) Projecr 3 DONE
 
-4. intro section page 1 (inc video)
+4. developer section
+(i) Becoming an engineer 
+(ii) Skills
+
+5. intro section page 1 (inc video)
 (i) Intro title, picture and intro para
 (ii) Video component with intro title 
     
-5. intro section page 2
+6. intro section page 2
 (i) About heading
 (i) Picture and writing - inc all writing
 
-6. body text section
+7. body text section
 
-7. developer section
-(i) Becoming an engineer 
-(ii) Skills
+
     
 
