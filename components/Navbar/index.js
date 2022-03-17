@@ -13,7 +13,7 @@ const [active, setActive] = useState(false);
   return (
     <>
       <nav className="flex items-center flex-wrap bg-white-400 p-3 ">
-        <Link href="/">
+        <Link href="https://drive.google.com/file/d/13l5EDVpTSWMwYZp8rLr1gorKFqCm6Tba/view?usp=sharing">
           <a className="inline-flex items-center p-2 mr-4 ">
             <span className="text-3xl text-black font-bold uppercase tracking-wide">
               CV
