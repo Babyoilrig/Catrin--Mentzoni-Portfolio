@@ -1,7 +1,8 @@
 Catrin Mentzoni Portfolio
 ===========
 
-<img src= "https://user-images.githubusercontent.com/93347177/158159629-0630be7c-27d5-48a5-b22d-0740f17d8e17.png" width="300px"><br/>
+<img src= "https://user-images.githubusercontent.com/93347177/158820711-9f0076d0-50c8-4786-8030-d137a82c6392.PNG" width="300px"><br/>
+
 
 <br/><br/>
 This repository is my developer profile.
