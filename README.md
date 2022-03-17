@@ -9,7 +9,9 @@ This repository is my developer profile.
 
 It contains information on my individual background, journey, skills and CV etc.
 
-I created this project using Next.JS and Tailwind I chose this package, as I had not used it before – in order to learn more about it (and also because I enjoy a new challenge).
+I created this project using Next.JS, Tailwind CSS and some CSS3.
+
+I chose this package, as I had not used it before – in order to learn more about it (and also because I enjoy a new challenge).
 
 NB - This is my second attempt at building this portfolio. I originally created it using Next.js, Next UI and CSS - but unfortunately I was having difficulty with mobile compatibility. The original repo can be viewed [HERE](https://github.com/Babyoilrig/CatrinMentzoni-Portfolio)
 
