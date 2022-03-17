@@ -55,7 +55,7 @@ const [active, setActive] = useState(false);
                 About
               </a>
             </Link>
-            <Link href="#projects">
+            <Link href="#projects-section">
               <a className="2xl:inline-flex text-2xl lg:w-auto w-full px-5 py-3 rounded text-black font-bold items-center justify-center hover:bg-white-600 hover:text-black">
                 Projects
               </a>
