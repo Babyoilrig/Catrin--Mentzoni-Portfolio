@@ -13,7 +13,7 @@ extends React.Component {
     };
   
     return (
-      <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mt-8">
+      <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mt-8 w-full md:w-auto">
       <h1 class="text-center font-roboto text-5xl font-bold">Introduction</h1>
       <br/><br/>
         <YouTube videoId="GNbKZls3W4w" 
