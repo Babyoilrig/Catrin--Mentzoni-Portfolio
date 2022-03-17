@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function BodyText() {
   return (
-    <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center md:pl-20 md:pr-20">
+    <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center mb-20 md:pl-20 md:pr-20">
     <p class="text-left font-roboto text-2xl">Hi, my name is Cat and I grew up near Pwllheli in North West Wales. During early teens in the mid-1990s I got my first home computer, and spent hours learning 
 about different programs and spending time on the internet. I even completed an AS Level in Computer 
 Programming in 2000, in which I learned to code in the ‘Delphi’ language. </p>
