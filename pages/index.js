@@ -11,7 +11,6 @@ import IntroPage1 from '../components/Intro';
 export default function Home() {
   return (
     <div>
-      <h1>Hello World!</h1>
       <IntroPage1 />
       <YoutubeVideo />
       <ProjectHeading />
