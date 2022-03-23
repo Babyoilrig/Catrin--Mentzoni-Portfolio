@@ -8,11 +8,18 @@ import IntroPage1 from '../components/Intro';
 
 
 
+
+
+
+
 export default function Home() {
   return (
     <div>
       <IntroPage1 />
       <YoutubeVideo />
+      
+      
+      
       <ProjectHeading />
       <ProjectsSection1 />
       <ProjectsSection2 />
