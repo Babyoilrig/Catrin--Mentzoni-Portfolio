@@ -1,0 +1,40 @@
+/* .videoContainer {
+    border: solid;
+    border-color: rgb(75, 73, 73);
+    border-width: 4px;
+    border-radius: 5px;
+    margin-left: 3em;
+    background-color: rgb(75, 73, 73);
+  }
+  
+  .video {
+    width: 100%;
+    height: auto;
+    outline: none;
+    border: solid;
+    border-color: rgb(160, 156, 156);
+    border-width: 3px;
+    border-radius: 5px;
+  }
+
+  
+  
+  @media screen and (max-width: 700px) {
+    .video {
+    width: 23em;
+    height: 30em;
+  }
+}
+  
+  @media screen and (max-width: 700px) {
+    .videoContainer {
+      width: 80%;
+      height: auto;
+    }
+}
+
+    @media screen and (max-width: 338px) {
+        .videoContainer {
+          border: none;
+        }
+    } */
