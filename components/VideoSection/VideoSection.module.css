@@ -6,20 +6,22 @@
     margin-left: 3em;
     background-color: rgb(75, 73, 73);
   }
-  
-  .video {
-    width: 100%;
-    height: auto;
-    outline: none;
-    border: solid;
-    border-color: rgb(160, 156, 156);
-    border-width: 3px;
-    border-radius: 5px;
+   */
+   .video {
+    height: 100%; 
+    width: 100%; 
+    object-fit: contain;
+    background-color: red;
+  }
+
+  .videoContainer {
+      background-color: #34eb8f;
+      padding: 20px;
   }
 
   
   
-  @media screen and (max-width: 700px) {
+  /* @media screen and (max-width: 700px) {
     .video {
     width: 23em;
     height: 30em;
@@ -37,4 +39,4 @@
         .videoContainer {
           border: none;
         }
-    } */
+    }  */
