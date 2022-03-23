@@ -7,17 +7,16 @@
     background-color: rgb(75, 73, 73);
   }
    */
-   .video {
+   /* .video {
     height: 100%; 
     width: 100%; 
     object-fit: contain;
-    background-color: red;
-  }
+  } */
 
-  .videoContainer {
+  /* .videoContainer {
       background-color: #34eb8f;
       padding: 20px;
-  }
+  } */
 
   
   
@@ -40,3 +39,18 @@
           border: none;
         }
     }  */
+
+    .videoResponsive {
+        overflow: hidden;
+        padding-bottom: 56.25%;
+        position: relative;
+        height: 0;
+      }
+      
+      .videoResponsive iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+      }

@@ -5,7 +5,7 @@ import ProjectsSection2 from '../components/ProjectSection2';
 import ProjectHeading from '../components/ProjectHeading';
 import YoutubeVideo from '../components/VideoSection';
 import IntroPage1 from '../components/Intro';
-
+import YoutubeEmbed from '../components/VideoSection';
 
 
 
@@ -16,7 +16,9 @@ export default function Home() {
   return (
     <div>
       <IntroPage1 />
-      <YoutubeVideo />
+      {/* <YoutubeVideo /> */}
+      <YoutubeEmbed embedId="GNbKZls3W4w"/>
+
       
       
       
