@@ -5,7 +5,7 @@ import css from './ProjectSection2.module.css'
 export default function ProjectsSection2() {
   return (
     //   Grid for project section 2
-    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 pb-[50px] pt-[50px] ">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 pb-[50px] pt-[50px] pl-5 pr-5 ">
     
       
       {/* Image box for project2 */}

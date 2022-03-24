@@ -48,10 +48,10 @@
       }
       
       .videoResponsive iframe {
-        left: 0;
-        top: 0;
-        height: 100%;
-        width: 100%;
+        /* left: 0;
+        top: 0; */
+        /* height: 100%;
+        width: 100%; */
         position: absolute;
       }
 
@@ -64,7 +64,7 @@
 
       @media screen and (max-width: 750px) {
         .video {
-          width: 100%;
+          width: 110%
           
         }
         }

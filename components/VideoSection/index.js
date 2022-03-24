@@ -36,7 +36,7 @@ import css from './VideoSection.module.css';
 import PropTypes from "prop-types";
 
 const YoutubeEmbed = ({ embedId }) => (
-  <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center" className={css.videoResponsive}>
+  <div class="grid gap-0 grid-cols-1 grid-rows-1 place-items-center content-center pl-5 pr-5" className={css.videoResponsive}>
     <iframe className={css.video}
       width="853"
       height="480"
