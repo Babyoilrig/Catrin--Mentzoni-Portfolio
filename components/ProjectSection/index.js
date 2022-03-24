@@ -24,7 +24,7 @@ export default function ProjectsSection1() {
       </div>
       </div>
       {/* Image box for project1 */}
-      <div class="col-span-3 place-items-center place-items-center md:mx-40" >
+      <div class="col-span-3 place-items-center content-center md:mx-40" >
       <div className={css.projectImageBox}>
         <img
           className={css.bootcamperAppImage}
