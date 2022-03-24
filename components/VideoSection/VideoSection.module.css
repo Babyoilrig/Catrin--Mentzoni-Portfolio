@@ -41,7 +41,7 @@
     }  */
 
     .videoResponsive {
-        overflow: hidden;
+        /* overflow: hidden; */
         padding-bottom: 56.25%;
         position: relative;
         height: 0;
@@ -50,8 +50,8 @@
       .videoResponsive iframe {
         /* left: 0;
         top: 0; */
-        /* height: 100%;
-        width: 100%; */
+        height: auto;
+         width: 100%;
         position: absolute;
       }
 
@@ -59,6 +59,13 @@
         .videoResponsive {
           width: 50%;
           
+        }
+      }
+
+      @media screen and (max-width: 700px) {
+        .videoResponsive {
+          width: 80%;
+          height: auto;
         }
       }
 
