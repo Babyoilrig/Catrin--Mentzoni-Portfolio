@@ -16,7 +16,7 @@ export default function ProjectsSection1() {
             to use and responsive on mobile devices. It was a steep learning curve - in which I spent hours upon hours learning 
             about mobile-responsive containers and wrapping divs, but I am proud of the result :)</h3>
         <Link
-          href="https://github.com/Babyoilrig/CatrinMentzoni-Portfolio"
+          href="https://github.com/Babyoilrig/Catrin--Mentzoni-Portfolio"
           passHref
         >
           <button className={css.projectButton}>View Project</button>

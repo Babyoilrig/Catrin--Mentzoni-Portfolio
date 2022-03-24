@@ -24,7 +24,7 @@ export default function ProjectsSection2() {
       <h2 className={css.projectTitle}>Bootcamper App</h2>
       <h3 className={css.projectDescription}>This is a social media app for School of Code bootcampers. Since our cohort consisted of over one hundred and eighty students, it was difficult for bootcampers to get to know their peers. I built this app during our week 9 project, working as part of a team of four. The app was created using a React front end, and a Postgres database. I enjoyed working with my team on this project. I created the high-fidelity wireframes, built React components and styled them using CSS. I also worked with a partner to deploy the front end, amongst many other things.</h3>
       <Link
-        href="https://github.com/orgs/SchoolOfCode/teams/farc-incorporated/repositories"
+        href="https://github.com/SchoolOfCode/national-project-week-farc-incorporated"
         passHref
       >
         <button className={css.projectButton}>View Project</button>
