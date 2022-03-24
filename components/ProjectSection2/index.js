@@ -5,11 +5,11 @@ import css from './ProjectSection2.module.css'
 export default function ProjectsSection2() {
   return (
     //   Grid for project section 2
-    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 pb-[50px] pt-[50px] ">
     
       
       {/* Image box for project2 */}
-      <div class="col-span-3 place-items-center content-center md:mx-40" >
+      <div class="col-span-3 content-center place-items-center md:mx-40" >
       <div className={css.projectImageBox}>
         <img
           className={css.bootcamperAppImage}
