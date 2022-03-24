@@ -54,3 +54,18 @@
         width: 100%;
         position: absolute;
       }
+
+      @media screen and (max-width: 3000px) {
+        .videoResponsive {
+          width: 50%;
+          
+        }
+      }
+
+      @media screen and (max-width: 750px) {
+        .video {
+          width: 100%;
+          
+        }
+        }
+      
