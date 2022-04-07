@@ -5,7 +5,7 @@ import css from './DeveloperSection.module.css'
 export default function DeveloperSection() {
   return (
     //   Grid for developer section
-    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 pl-5 pr-5">
 
       {/* Developer section div 1 */}
       <div class="col-span-3 place-items-center content-center bg-[#fdc435] border-r-2 border-black" >
