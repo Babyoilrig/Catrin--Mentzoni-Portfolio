@@ -7,7 +7,7 @@ Catrin Mentzoni Portfolio
 <br/><br/>
 This repository is my developer profile.
 
-The hosted version of this repo can be viewed here: www.catrinmwntzoni.com
+The hosted version of this repo can be viewed here: www.catrinmentzoni.com
 
 It contains information on my individual background, journey, skills and CV etc.
 
