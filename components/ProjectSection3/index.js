@@ -11,7 +11,7 @@ export default function ProjectsSection3() {
       <div class="col-span-3 content-center place-items-center md:mx-40" className={css.proj1Left}>
       <div className={css.projectTextBox}>
         <h2 className={css.projectTitle}>Tribe App</h2>
-        <h3 className={css.projectDescription}>I am currently working as part of a team of 6 to create the Tribe mobile app, as part of our month long final project. This app assists with family organisation, and allows parents to assign chores to their children and other family members. We are building the project using React Native and Firebase. So far, as well as learning a new flavour of React, I have researched and implemented a testing environment and written tests, created a stacknavigator component and researched how to deploy and host apps via the Expo app store, amongst many other things.</h3>
+        <h3 className={css.projectDescription}>I worked as part of a team of 6 to create the Tribe mobile app, as part of our month long final project at the School of Code. This app assists with family organisation, and allows parents to assign chores to their children and other family members. We are building the project using React Native and Firebase. So far, as well as learning a new flavour of React, I have researched and implemented a testing environment and written tests, created a stacknavigator component and researched how to deploy and host apps via the Expo app store, amongst many other things.</h3>
         <Link
           href="https://github.com/SchoolOfCode/final-project-repo-node-of-ingenuity-room-17"
           passHref
