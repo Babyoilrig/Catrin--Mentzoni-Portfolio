@@ -12,7 +12,7 @@ export default function DeveloperSection() {
       <h2 class="text-center font-roboto text-4xl font-bold">Becoming a Full Stack Engineer</h2>
       <br/>
       <p class="text-center font-roboto text-xl">
-        I attended the School of Code’s 16 week bootcamp, between 15th November 2021 - 11th March 2022, 
+        I attended the School of Code’s 16 week bootcamp, between 15th November 2021 - 24th March 2022, 
         and taking part in the course has completely changed my life!</p>
         <br/>
         <p class="text-center font-roboto text-xl">During the bootcamp I have learnt skills and technologies that have taken me from a coding novice to a full 
