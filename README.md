@@ -7,6 +7,8 @@ Catrin Mentzoni Portfolio
 <br/><br/>
 This repository is my developer profile.
 
+The hosted version of this repo can be viewed here: www.catrinmwntzoni.com
+
 It contains information on my individual background, journey, skills and CV etc.
 
 I created this project using Next.JS, Tailwind CSS and some CSS3.
