@@ -17,7 +17,7 @@ export default function Home() {
     <div>
       <IntroPage1 />
       {/* <YoutubeVideo /> */}
-      <YoutubeEmbed embedId="GNbKZls3W4w"/>
+      {/* <YoutubeEmbed embedId="GNbKZls3W4w"/> */}
 
       
       
