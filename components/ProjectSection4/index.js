@@ -11,7 +11,7 @@ export default function ProjectsSection4() {
       <div class="col-span-3 content-center place-items-center md:mx-40" className={css.proj1Left}>
       <div className={css.projectTextBox}>
         <h2 className={css.projectTitle}>Music Sales App</h2>
-        <h3 className={css.projectDescription}>I worked as part of a team of 6 to create the Tribe mobile app, as part of our month long final project at the School of Code. This app assists with family organisation, and allows parents to assign chores to their children and other family members. We are building the project using React Native and Firebase. So far, as well as learning a new flavour of React, I have researched and implemented a testing environment and written tests, created a stacknavigator component and researched how to deploy and host apps via the Expo app store, amongst many other things.</h3>
+        <h3 className={css.projectDescription}>This is an app I built during an internship with the company Vista Health between January - June 2024. The app was developed for (and in conjunction with) a large blue chip pharmaceutical company, in order to display their global sales information. I built the frontend of this app completely independently using VanillaJS and Chart.js charting library. The backend of the application was created using Amazon AWS. This application was designed to be viewed on desktop – due to the complex graphical data it displays. (Although it is possible to view it on mobile – the user may not be able to see the data clearly on small devices). </h3>
         <Link
           href="https://github.com/Babyoilrig/musicSalesApp"
           passHref
