@@ -5,7 +5,7 @@ import css from './ProjectSection3.module.css'
 export default function ProjectsSection3() {
   return (
     //   Grid for project section 3
-    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 ml-3 mr-3 pl-6 pr-6">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 ml-3 mr-3 pl-6 pr-6 pt-5 pb-5">
     
       {/* Text box for project 3 */}
       <div class="col-span-3 content-center place-items-center md:mx-40" className={css.proj1Left}>
