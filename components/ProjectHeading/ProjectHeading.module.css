@@ -39,5 +39,14 @@
     margin: 4px 0px 0px 35px;
 
   }
-  
+
+
+  @media only screen and (max-width: 999px) {
+    .projectsTitle {
+    font-size: 40px;
+  }
+  .projectUnderline {
+    margin: 4px 0px 0px 3px;
+  }
+}
   
