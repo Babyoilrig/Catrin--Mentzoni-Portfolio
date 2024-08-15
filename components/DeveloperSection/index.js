@@ -5,10 +5,10 @@ import css from './DeveloperSection.module.css'
 export default function DeveloperSection() {
   return (
     //   Grid for developer section
-    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 pl-5 pr-5">
+    <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 ml-5 mr-5">
 
       {/* Developer section div 1 */}
-      <div class="col-span-3 place-items-center content-center bg-[#fdc435] border-r-2 border-black" >
+      <div class="col-span-3 place-items-center content-center bg-[#fdc435] border-r-2 border-black p-7" >
       <h2 class="text-center font-roboto text-4xl font-bold">Becoming a Full Stack Engineer</h2>
       <br/>
       <p class="text-center font-roboto text-xl">
@@ -28,7 +28,7 @@ export default function DeveloperSection() {
       </div>
     
     {/* Developer section div 2 */}
-    <div class="col-span-3 place-items-center content-center">
+    <div class="col-span-3 place-items-center content-center p-7">
     
     <h1 class="text-center font-roboto text-4xl font-bold">Skills</h1>
     <br/>
