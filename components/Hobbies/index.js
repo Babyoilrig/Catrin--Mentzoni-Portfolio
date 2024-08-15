@@ -6,7 +6,7 @@ export default function HobbiesSection() {
   
       <h1 class="text-center font-roboto text-4xl font-bold">Hobbies</h1>
       <br/>
-        <ul class="text-left font-roboto text-xl font-bold pb-[150px]">
+        <ul class="text-left font-roboto text-xl font-bold">
        <li>Coding!</li> 
        <li>Music</li>
        <li>Travel</li>
