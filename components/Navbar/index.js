@@ -1,4 +1,5 @@
 import Link from "next/link";
+import css from "./Navbar.module.css"
 import  { useState } from "react";
 
 import React from 'react'
@@ -20,6 +21,24 @@ const [active, setActive] = useState(false);
             </span>
           </a>
         </Link>
+        <div className={css.linkedInIcon}>
+          <Link
+            href="https://www.linkedin.com/in/catrin-mentzoni-9387b6224/?trk=people-guest_people_search-card&originalSubdomain=uk"
+            passHref
+          >
+            <img
+              className={css.linkedInImage}
+              src="/images/linked-in-logo.png"
+            ></img>
+          </Link>
+        </div>
+        <div className={css.githubIcon}>
+        <Link
+            href="https://github.com/Babyoilrig"
+            passHref
+          ><img className={css.githubImage} src="/images/github-logo.png"></img></Link>
+        </div>
+        
         <button
           className=" inline-flex p-3 hover:bg-white-600 rounded lg:hidden text-black ml-auto hover:text-black outline-none"
           onClick={handleClick}
