@@ -58,3 +58,18 @@
       width: 100%; 
       object-fit: contain;
   }
+
+  @media only screen and (max-width: 999px) {
+    .firstButton {
+      width: 142px;
+    height: 53px;
+    font-size: 1rem;
+  }
+  .secondButton {
+    width: 142px;
+    height: 53px;
+    font-size: 1rem;
+    padding: 0.1rem 0.5rem 0.5rem 2.5rem;
+  }
+
+}
