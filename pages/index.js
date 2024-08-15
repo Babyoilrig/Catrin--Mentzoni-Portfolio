@@ -2,7 +2,7 @@ import Footer from '../components/Footer'
 import ProjectsSection1 from '../components/ProjectSection';
 import ProjectsSection3 from '../components/ProjectSection3';
 import ProjectsSection2 from '../components/ProjectSection2';
-import ProjectsSection4 from '../components/ProjectSection4';
+import ProjectSection4 from '../components/ProjectSection4';
 import ProjectHeading from '../components/ProjectHeading';
 import YoutubeVideo from '../components/VideoSection';
 import IntroPage1 from '../components/Intro';
@@ -27,8 +27,8 @@ export default function Home() {
       <ProjectsSection1 />
       <ProjectsSection2 />
       <ProjectsSection3 />
-      {/* <ProjectsSection4 /> */}
-      <Footer />
+      <ProjectSection4 />
+      {/* <Footer /> */}
     </div>
   );
 }
