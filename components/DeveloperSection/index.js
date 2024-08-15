@@ -11,17 +11,17 @@ export default function DeveloperSection() {
       <div class="col-span-3 place-items-center content-center bg-[#fdc435] border-r-2 border-black p-7" >
       <h2 class="text-center font-roboto text-4xl font-bold">Becoming a Full Stack Engineer</h2>
       <br/>
-      <p class="text-center font-roboto text-xl">
+      <p class="text-center font-roboto text-lg">
         I attended the School of Code’s 16 week bootcamp, between 15th November 2021 - 24th March 2022, 
         and taking part in the course has completely changed my life!</p>
         <br/>
-        <p class="text-center font-roboto text-xl">During the bootcamp I have learnt skills and technologies that have taken me from a coding novice to a full 
+        <p class="text-center font-roboto text-lg">During the bootcamp I have learnt skills and technologies that have taken me from a coding novice to a full 
         stack software engineer - some of these are detailed in the next section. I have also learnt how to work effectively as the part of an agile team, 
         including reflecting on my personality traits, listening ability, communication style, and mindset. I have also learnt about concepts such as UX/UI, dev ops 
         and project management. </p>
         <br/>
 
-        <p class="text-center font-roboto text-xl">I enjoy building the front end of applications using frameworks like React, styling them to look attractive, and then hooking up the 
+        <p class="text-center font-roboto text-lg">I enjoy building the front end of applications using frameworks like React, styling them to look attractive, and then hooking up the 
         ‘back-end’ logic to make dynamic apps. Moreover though,  I enjoy doing this as part of a team!
         </p>
         <br/>
@@ -32,16 +32,17 @@ export default function DeveloperSection() {
     
     <h1 class="text-center font-roboto text-4xl font-bold">Skills</h1>
     <br/>
-    <ul class="text-left font-roboto text-xl font-bold">
-<li>Front end: JavaScript, HTML, CSS </li>
+    <ul class="text-left font-roboto text-xl">
+<li>Front end: JavaScript, HTML, CSS</li>
 <li>Frameworks and libraries: React, React Native, Next.js </li>
 <li>Back end: Node, Express, PostgreSQL, Firebase </li>
 <li>Services: Netlify, Heroku </li>
 <li>Tools: Git, Docker </li>
 <li>Testing and test-driven development </li>
+</ul>
 <br></br>
-<h3 class="text-center font-roboto text-3xl font-bold">And soft skills, such as: </h3>
-
+<h3 class="text-center font-roboto text-3xl font-bold mb-4">And soft skills, such as: </h3>
+<ul class="text-left font-roboto text-xl">
 <li>Agile methodology </li>
 <li>Solo and pair programming </li>
 <li>Creative problem solving, both independently and within a larger team </li>

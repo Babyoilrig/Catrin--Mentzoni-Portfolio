@@ -6,11 +6,11 @@ export default function HobbiesSection() {
   
       <h1 class="text-center font-roboto text-4xl font-bold">Hobbies</h1>
       <br/>
-        <ul class="text-left font-roboto text-xl font-bold">
+        <ul class="text-left font-roboto text-xl">
        <li>Coding!</li> 
        <li>Music</li>
        <li>Travel</li>
-       <li>Walking</li>
+       <li>Walking</li> 
        <li>Swimming</li>
        <li>Paddleboarding</li>
        <li>Surfing</li>
