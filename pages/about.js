@@ -11,7 +11,7 @@ export default function About() {
       <BodyText />
         <DeveloperSection />
         <HobbiesSection />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
