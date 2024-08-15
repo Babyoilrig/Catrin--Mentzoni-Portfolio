@@ -11,7 +11,7 @@ export default function ProjectsSection4() {
       <div class="col-span-3 content-center place-items-center md:mx-40" className={css.proj1Left}>
       <div className={css.projectTextBox}>
         <h2 className={css.projectTitle}>Music Sales App</h2>
-        <h3 className={css.projectDescription}>This is an app I built during an internship with the company Vista Health between January - June 2024. The app was developed for (and in conjunction with) a large blue chip pharmaceutical company, in order to display their global sales information. I built the frontend of this app completely independently using VanillaJS and Chart.js charting library. The backend of the application was created using Amazon AWS. This application was designed to be viewed on desktop – due to the complex graphical data it displays. (Although it is possible to view it on mobile – the user may not be able to see the data clearly on small devices). </h3>
+        <h3 className={css.projectDescription}>This is an app I built during an internship with the company Vista Health between January - June 2024. The app was developed for a large blue chip pharmaceutical company to display their global sales information. I built the frontend of this app completely independently using VanillaJS and Chart.js charting library. This application was designed to be viewed on desktop – due to the complex graphical data it displays. </h3>
         <Link
           href="https://github.com/Babyoilrig/musicSalesApp"
           passHref
