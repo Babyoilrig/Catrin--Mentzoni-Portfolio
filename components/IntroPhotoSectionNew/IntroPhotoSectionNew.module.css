@@ -1,28 +1,35 @@
+.mainIntroContainer {
+    display: flex;
+    background-color: orange;
+    flex-direction: row;
+}
 
-.introPhotoSection {
+/* .introPhotoSection {
     display: flex;
     flex-direction: column;
     background-color: red;
     margin-right: 50rem;
-}
+} */
 
-.introPhotoSectionTop {
+.introTextSectionTop {
     display: flex;
     flex-direction: column;
     background-color: blue;
-    margin-left: 13rem;
+    margin-left: 10rem;
     /* padding-right: -5rem; */
 }
 
-.introPhotoSectionBottom {
+.introTextSectionBottom {
     background-color: fuchsia;
-    margin-left: 13rem;
+    margin-left: 10rem;
+    padding-right: 5rem;
     font-size: 1.5rem;
 
 }
 
 .imageSection {
-    display: flex;
+    height: 100%;
+    width: 100%;
 
 }
 
