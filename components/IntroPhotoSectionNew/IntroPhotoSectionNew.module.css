@@ -1,7 +1,20 @@
-.intro-photo-section {
+
+.introPhotoSection {
+    display: flex;
+    flex-direction: row;
     background-color: red;
 }
 
+.introPhotoSectionLeft {
+    display: flex;
+    background-color: blue;
+}
+
+.introPhotoSectionRight {
+    display: flex;
+    background-color: green;
+
+}
 .buttonContainer {
     display: flex;
     flex-direction: row;
@@ -50,7 +63,7 @@
     
   }
 
-  .catImageContainer {
+  /* .catImageContainer {
     width: 50rem;
     height: 50rem;
     margin: 2rem;
@@ -60,7 +73,7 @@
     height: 100%; 
       width: 100%; 
       object-fit: contain;
-  }
+  } */
 
   @media only screen and (max-width: 999px) {
     .firstButton {
