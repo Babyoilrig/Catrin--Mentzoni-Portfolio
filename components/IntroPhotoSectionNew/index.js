@@ -9,16 +9,17 @@ export default function IntroPhotoSectionNew() {
     <div className={css.introPhotoSection}>
     {/* //Left Section - Heading */}
     <div className={css.introPhotoSectionLeft}>
-      <h1 class="fullstack-heading">Fullstack Software Engineer</h1>
-      <h2 class="name-heading">Hello, my name is Catrin Mentzoni</h2>
+      <h1 className={css.fullstackHeading}>Fullstack Software Engineer</h1>
+      <h2 className={css.nameHeading}>Hello, my name is</h2>
+      <h2 className={css.nameHeading}>Catrin Mentzoni</h2>
       </div>
       {/* //Right Section */}
       <div className={css.introPhotoSectionRight}>
-      <img src="/Images/cat-pic-transparent.png"></img>
+      <img src="/Images/cat-big.png"></img>
       </div>
       
     </div>
-    <div class="text-section">
+    <div className={css.textSection}>
       <p>I am an enthusiastic and friendly individual with excellent communication and listening skills, who thrives when working as part of a team. I love learning new things, and I also love a challenge! I previously worked as a primary school teacher for ten years, but learned to code as part of the School of Code's Bootcamp 10 cohort - and I love it!</p>
       </div>
 
