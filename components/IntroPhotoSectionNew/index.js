@@ -14,12 +14,13 @@ export default function IntroPhotoSectionNew() {
       </div>
       {/* //Right Section */}
       <div className={css.introPhotoSectionRight}>
-      <img src="/Images/cat-pic.png"></img>
+      <img src="/Images/cat-pic-transparent.png"></img>
       </div>
-      <div class="text-section">
+      
+    </div>
+    <div class="text-section">
       <p>I am an enthusiastic and friendly individual with excellent communication and listening skills, who thrives when working as part of a team. I love learning new things, and I also love a challenge! I previously worked as a primary school teacher for ten years, but learned to code as part of the School of Code's Bootcamp 10 cohort - and I love it!</p>
       </div>
-    </div>
 
         <div class="grid gap-4 grid-cols-2 grid-rows-1 place-items-center content-center mb-12 mt-8">
           <Link href="/about" passHref>
