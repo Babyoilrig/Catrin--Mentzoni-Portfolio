@@ -1,19 +1,27 @@
 
 .introPhotoSection {
     display: flex;
-    flex-direction: row;
-    /* background-color: red; */
+    flex-direction: column;
+    background-color: red;
+    margin-right: 50rem;
 }
 
-.introPhotoSectionLeft {
+.introPhotoSectionTop {
     display: flex;
     flex-direction: column;
-    /* background-color: blue; */
-    padding-left: 10rem;
+    background-color: blue;
+    margin-left: 13rem;
     /* padding-right: -5rem; */
 }
 
-.introPhotoSectionRight {
+.introPhotoSectionBottom {
+    background-color: fuchsia;
+    margin-left: 13rem;
+    font-size: 1.5rem;
+
+}
+
+.imageSection {
     display: flex;
 
 }
@@ -32,6 +40,10 @@
     line-height: 6.5rem;
 
 
+}
+
+.catImage {
+    width: 40rem;
 }
 
 
