@@ -26,8 +26,6 @@
 .imageSection {
     height: 100%;
     width: 100%;
-    
-
 
 }
 
@@ -392,5 +390,102 @@
     margin-left: 4rem;
     margin-top: 3rem;
     font-size: 0.9rem;
+}
+}
+
+@media only screen and (max-width: 490px) {
+  .fullstackHeading {
+    font-size: 1.3rem;
+    margin-left: 1.5rem;
+}
+  .nameHeading {
+      font-size: 2rem;
+      line-height: 2.7rem;
+      margin-left: 1.5rem;
+
+  }
+  .catImage {
+    margin-left: -1rem;
+    width: 10rem;
+    
+}
+  .introTextSectionBottom {
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+.imageSection {
+  height: 180%;
+  width: 180%;
+
+}
+}
+
+@media only screen and (max-width: 450px) {
+  .fullstackHeading {
+    font-size: 1.1rem;
+    margin-left: 1.5rem;
+}
+  .nameHeading {
+      font-size: 1.8rem;
+      line-height: 2.2rem;
+      margin-left: 1.5rem;
+
+  }
+  .catImage {
+    margin-left: -1rem;
+    /* width: 10rem; */
+    
+}
+  .introTextSectionBottom {
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+    font-size: 0.8rem;
+}
+
+.imageSection {
+  height: 180%;
+  width: 180%;
+
+}
+
+.firstButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  padding: 0.1rem 0.5rem 0.5rem 1.9rem;
+  width: 9rem;
+  height: 3.5rem;
+  /* left: 0px;
+  top: 0px; */
+  object-fit: contain;
+  background: #fdc435;
+  border: 2px solid #25282b;
+  border-radius: 18px;
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  
+}
+
+.secondButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  padding: 0.1rem 0.5rem 0.5rem 2.3rem;
+  width: 9rem;
+  height: 3.5rem;
+  /* left: 120px; */
+  /* top: 43px; */
+  border: 2px solid #25282b;
+  border-radius: 18px;
+  object-fit: contain;
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  
 }
 }
