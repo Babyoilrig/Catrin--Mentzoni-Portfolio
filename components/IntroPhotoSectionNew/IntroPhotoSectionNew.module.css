@@ -125,6 +125,45 @@
       object-fit: contain;
   } */
 
+  @media only screen and (max-width: 1790px) {
+  
+    .fullstackHeading {
+      font-size: 3.2rem;
+  }
+  
+  .nameHeading {
+      font-size: 5.3rem;
+  }
+}
+
+@media only screen and (max-width: 1680px) {
+  .fullstackHeading {
+    font-size: 3rem;
+}
+.nameHeading {
+    font-size: 5rem;
+}
+}
+
+@media only screen and (max-width: 1600px) {
+  .fullstackHeading {
+    font-size: 2.7rem;
+}
+  .nameHeading {
+      font-size: 4.5rem;
+  }
+  }
+
+  @media only screen and (max-width: 1500px) {
+    .fullstackHeading {
+      font-size: 2.3rem;
+  }
+    .nameHeading {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+    }
+
   @media only screen and (max-width: 999px) {
     .firstButton {
       width: 142px;
