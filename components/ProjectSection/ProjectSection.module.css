@@ -145,13 +145,6 @@
 }
 
 @media only screen and (max-width: 420px) {
-  /* .projectSection1 {
-    background-color: red;
-   font-size: 0.8rem;
-   width: 100%; 
-   overflow-x: scroll; 
-   
-  } */
   .projectTitle {
     font-size: 2rem;
     line-height: 150%;
