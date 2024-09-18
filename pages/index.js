@@ -17,8 +17,8 @@ import IntroPhotoSectionNew from '../components/IntroPhotoSectionNew';
 export default function Home() {
   return (
     <div>
-      <IntroPage1 />
-      {/* <IntroPhotoSectionNew /> */}
+      {/* <IntroPage1 /> */}
+      <IntroPhotoSectionNew />
       {/* <YoutubeVideo /> */}
       {/* <YoutubeEmbed embedId="GNbKZls3W4w"/> */}
 
