@@ -1,8 +1,8 @@
-.projectSection1 {
+.projectSection2 {
   display: flex;
   flex-direction: row;
   align-items: center; 
-  justify-content: space-evenly;
+  justify-content: center;
 
   margin: 0.5rem;
   border-color: black;
@@ -15,6 +15,8 @@
 .projectTextBox {
   flex-grow: 0;
   width: 50rem;
+  /* background-color: red; */
+  margin-left:  25rem;
   padding: 0.5rem;
 }
 

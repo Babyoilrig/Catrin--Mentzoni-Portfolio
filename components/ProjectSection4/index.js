@@ -15,7 +15,7 @@ export default function ProjectsSection4() {
       <div className={css.projectImageBox}>
         <img
           className={css.musicSalesAppImage}
-          src="/images/music-sales-app-image.png"
+          src="/images/music-sales-app3.png"
         />
       </div>
       </div>

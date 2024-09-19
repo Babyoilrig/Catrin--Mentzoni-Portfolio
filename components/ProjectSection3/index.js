@@ -29,7 +29,7 @@ export default function ProjectsSection3() {
       <div className={css.projectImageBox}>
         <img
           className={css.bootcamperAppImage}
-          src="/images/tribeApp-sml.png"
+          src="/images/tribe2.png"
         />
       </div>
       </div>
