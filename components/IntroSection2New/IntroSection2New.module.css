@@ -1,7 +1,13 @@
 .introContainer {
     display: flex;
     flex-direction: row;
-    background-color: orange;
+    justify-content: center;
+
+    /* background-color: orange; */
+}
+
+.headingContainer {
+    background-color: blue;
 }
 
 .heading {
@@ -15,9 +21,20 @@
 }
 
 .introLeft {
-    background-color: red;
+    display: flex;
+    flex-direction: row;
+    /* padding-right: 8rem; */
+    /* justify-content: center; */
+    /* background-color: red; */
+    margin-left: -22rem;
+
 }
 
 .introRight {
-    background-color: green;
+    /* background-color: green; */
+    margin: 0 0 3rem 0;
+}
+
+.catPic {
+    width: 30rem;
 }
