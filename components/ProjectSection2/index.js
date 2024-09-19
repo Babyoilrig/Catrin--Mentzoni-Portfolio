@@ -6,7 +6,7 @@ export default function ProjectsSection2() {
   return (
     //   Grid for project section 2
     // <div class="grid gap-0 grid-cols-1 md:grid-cols-6 grid-rows-1 place-items-center content-center border-solid border-2 border-black rounded-lg mb-12 mt-8 ml-3 mr-3 pl-6 pr-6 pt-5">
-    <div className={css.projectSection2}>
+    <div className={css.projectSection1}>
     
       
       {/* Image box for project2 */}
