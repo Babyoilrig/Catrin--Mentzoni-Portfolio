@@ -38,3 +38,35 @@
 .catPic {
     width: 30rem;
 }
+
+@media only screen and (max-width: 1400px) {
+    .heading {
+      font-size: 5rem;
+  }
+    .catPic {
+        width: 25rem;
+    }        
+    }
+
+    @media only screen and (max-width: 1150px) {
+        .heading {
+          font-size: 4rem;
+      }
+        .catPic {
+            width: 20rem;
+        }        
+        }
+
+        @media only screen and (max-width: 900px) {
+            .heading {
+              font-size: 4rem;
+          }
+            .catPic {
+                width: 16rem;
+                /* margin-right: -2rem; */
+            }   
+            .introRight {
+                margin-right: -10rem;
+            }
+
+            }
