@@ -8,8 +8,8 @@ import IntroSection2New from '../components/IntroSection2New';
 export default function About() {
   return (
     <div>
-      <IntroSection2 />
-      {/* <IntroSection2New /> */}
+      {/* <IntroSection2 /> */}
+      <IntroSection2New />
       <BodyText />
         <DeveloperSection />
         <HobbiesSection />
