@@ -101,8 +101,42 @@
 
         @media only screen and (max-width: 530px) {
             .introLeft {
-                background-color: red;
                 margin-left: -6rem;
             }
 
+        }
+
+        @media only screen and (max-width: 460px) {
+            .introLeft {
+                margin-left: -7rem;
+            }
+
+        }
+
+        @media only screen and (max-width: 430px) {
+            .introLeft {
+                margin-left: -8rem;
+            }
+
+        }
+
+        @media only screen and (max-width: 400px) {
+            .introLeft {
+                margin-left: -9rem;
+            }
+        }
+
+        @media only screen and (max-width: 370px) {
+            .introLeft {
+                margin-left: -10rem;
+            }
+        }
+
+        @media only screen and (max-width: 350px) {
+            .introLeft {
+                margin-left: -9.5rem;
+            }
+            .heading {
+                font-size: 3.5rem;
+            }
         }
