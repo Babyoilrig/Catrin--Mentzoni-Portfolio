@@ -32,7 +32,8 @@
 
 .introRight {
     /* background-color: green; */
-    margin: 0 0 3rem 0;
+    margin: 0 -10rem 3rem 0;
+    
 }
 
 .catPic {
@@ -45,7 +46,8 @@
   }
     .catPic {
         width: 25rem;
-    }        
+    }
+    
     }
 
     @media only screen and (max-width: 1150px) {
@@ -54,7 +56,8 @@
       }
         .catPic {
             width: 20rem;
-        }        
+        }      
+       
         }
 
         @media only screen and (max-width: 900px) {
@@ -65,8 +68,13 @@
                 width: 16rem;
                 /* margin-right: -2rem; */
             }   
-            .introRight {
-                margin-right: -10rem;
             }
 
+            
+        @media only screen and (max-width: 600px) {
+            .introContainer {
+                display: flex;
+                flex-direction: column;
+                margin-left: 15rem;
             }
+        }
